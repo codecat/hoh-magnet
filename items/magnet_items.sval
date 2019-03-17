@@ -1,0 +1,18 @@
+<loader>AddItemFile</loader>
+<dict>
+	<dict name="magnet">
+		<string name="name">.item.magnet.name</string>
+		<string name="desc">.item.magnet.desc</string>
+		<string name="quality">uncommon</string>
+		<int name="cost">1200</int>
+
+		<array name="icon">
+			<string>items/magnet.png</string>
+			<int>100</int><vec4>0 0 12 12</vec4>
+		</array>
+
+		<dict name="modifier">
+			<string name="class">Modifiers::PickupMagnet</string>
+		</dict>
+	</dict>
+</dict>

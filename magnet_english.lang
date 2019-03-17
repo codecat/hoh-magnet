@@ -1,0 +1,4 @@
+<lang>
+	<string name="item.magnet.name">Magnet</string>
+	<string name="item.magnet.desc">Automatically pulls items towards you.</string>
+</lang>
