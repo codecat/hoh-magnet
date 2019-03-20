@@ -98,7 +98,7 @@ namespace Modifiers
 				auto pickup = previousPickups[i];
 				auto body = pickup.m_unit.GetPhysicsBody();
 				if (body !is null)
-					body.SetStatic(false);
+					body.SetStatic(true);
 			}
 		}
 	}
